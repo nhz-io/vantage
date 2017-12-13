@@ -1,5 +1,5 @@
 {
-  "name": "vantage",
+  "name": "@nhz.io/vantage",
   "version": "1.7.0",
   "description": "CLI + SSH + REPL for Node",
   "main": "./lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dthree/vantage.git"
+    "url": "git+https://github.com/nhz-io/vantage.git"
   },
   "keywords": [
     "api",
@@ -31,9 +31,9 @@
     "nsh": "./bin/vantage.js"
   },
   "bugs": {
-    "url": "https://github.com/dthree/vantage/issues"
+    "url": "https://github.com/nhz-io/vantage/issues"
   },
-  "homepage": "https://github.com/dthree/vantage#readme",
+  "homepage": "https://github.com/nhz-io/vantage#readme",
   "devDependencies": {
     "eslint": "^1.2.1",
     "express": "^4.12.4",
