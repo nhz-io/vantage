@@ -1,6 +1,6 @@
 {
   "name": "@nhz.io/vantage",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "CLI + SSH + REPL for Node",
   "main": "./lib/index.js",
   "scripts": {
